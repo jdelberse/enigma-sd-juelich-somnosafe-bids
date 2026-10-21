@@ -1,7 +1,7 @@
 # Cologne "Somnosafe" Dataset (`juelich-somnosafe-bids`)
 
 ## Overview
-**NB**: This dataset was shared and maintained under the name `juelich-somnosafe-bids`. This dataset is one of two datasets (`juelich-petcoffee-bids` and `juelich-somnosafe-bids`) that make up the Cologne sample.
+**NB**: This dataset was shared and maintained under the name `juelich-somnosafe-bids`, which could not be changed. This dataset is one of two datasets (`juelich-petcoffee-bids` and `juelich-somnosafe-bids`) that make up the Cologne sample.
 
 This dataset contains MRI data from a sleep manipulation study conducted at the German Aerospace Center (Germany). It is part of the ENIGMA-Sleep Working Group collection used to study the effects of sleep loss on glymphatic MRI indices. The data are organized according to the Brain Imaging Data Structure (BIDS) and managed with DataLad (git-annex).
 

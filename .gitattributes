@@ -1,3 +1,4 @@
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
 bids_reformat.py annex.largefiles=nothing
+README.md annex.largefiles=nothing

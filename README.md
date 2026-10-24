@@ -20,7 +20,9 @@ This dataset contains MRI data from a sleep manipulation study conducted at the 
 
 - **BL**: baseline, habitual sleep
 - **SD**: total sleep deprivation, 24h
-- **SR**: sleep restriction, 5h TIB
+- **SR**: sleep restriction, 5 days of 5h TIB
+
+Only BL and SD scans were used in the study.
 
 ## Imaging data
 
